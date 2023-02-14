@@ -1,0 +1,23 @@
+{
+    "name": "annaren/ssy-connect",
+    "version": "1.0.0",
+    "description": "Classe de connexion Sellsy API v1",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "AnnaRen\\SsyConnect\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Anna Renaudin",
+            "email": "anna.renaudin@gmail.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/annarenaudin/ssy-connect-apiv1"
+        }
+    ]
+}
