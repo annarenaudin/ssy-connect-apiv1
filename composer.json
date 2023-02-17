@@ -1,6 +1,6 @@
 {
     "name": "annaren/ssy-connect",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Classe de connexion Sellsy API v1",
     "type": "library",
     "autoload": {
