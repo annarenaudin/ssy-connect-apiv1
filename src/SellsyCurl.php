@@ -40,7 +40,7 @@ class SellsyCurl {
 
 		if ($requestFile)
         {
-			$params['do_file'] = new CurlFile(
+			$params['do_file'] = new \CurlFile(
 				$requestFile['tmp_name'], # complete path to the file
 				$requestFile['type'], # mime type
 				$requestFile['name'] # name of the file
